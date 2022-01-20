@@ -36,6 +36,15 @@ Road accidents have become a significant concern in Bangladesh, with high-speed 
 13 | 3.7v Battery | 3 | Module | 150/= | ![](https://github.com/imamhossain94/accident-detection-prevention-and-an-emergency-solution/blob/main/images/li_ion_battery.jpg) | 18650 3.7 Volt lithium-ion rechargeable batteries are cylindrical batteries used in mainly for laptop battery packs, telephones, electronic cigarettes, flashlights and cordless power tools.
 14 | 1x Battery Case | 1 | Module | 25/= | ![](https://github.com/imamhossain94/accident-detection-prevention-and-an-emergency-solution/blob/main/images/battery_holder_1.jpg) | The primary function of a battery holder is to keep cells fixed in place safely and securely while conveying power from the batteries to the device in question.
 15 | 2x Battery Case | 1 | Module | 30/= | ![](https://github.com/imamhossain94/accident-detection-prevention-and-an-emergency-solution/blob/main/images/battery_holder_2.png) | The primary function of a battery holder is to keep cells fixed in place safely and securely while conveying power from the batteries to the device in question.
+16 | 2x Battery Charger | 1 | Module | 120/= | ![](https://github.com/imamhossain94/accident-detection-prevention-and-an-emergency-solution/blob/main/images/li_ion_battery_charger.jpg) | Proper charging of Li-ion batteries enables the best performance and longest operational life to be obtained.
+17 | Soldering Iron | 1 | Module | 150/= | ![](https://github.com/imamhossain94/accident-detection-prevention-and-an-emergency-solution/blob/main/images/soldering_iron.jpg) | Spool of solder. 1.6mm. A soldering iron is a hand tool used in soldering.
+18 | Soldering LID | 1 | Module | 20/= | ![](https://github.com/imamhossain94/accident-detection-prevention-and-an-emergency-solution/blob/main/images/soldering_lid.jpg) | Soldering Lid.
+19 | Rojon | 1 | Module | 8/= | ![](https://github.com/imamhossain94/accident-detection-prevention-and-an-emergency-solution/blob/main/images/soldering_rojon.jpg) | Soldering Rojon.
+20 | Jumper Wire | 3 | Cable | 180/= | ![](https://github.com/imamhossain94/accident-detection-prevention-and-an-emergency-solution/blob/main/images/jumper_wire.jpg) | RF jumper cables - Jumper cables is a smaller and more bendable corrugated cable which is used to connect antennas and other components to network cabling.
+
+
+
+
 
 
 ## 🧑 Author
