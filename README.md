@@ -21,5 +21,5 @@ Road accidents have become a significant concern in Bangladesh, with high-speed 
 
 | S/N | Name/Model | Quantity | Type | Price | Image | Description
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-1 | Arduino UNO | 1 | microcontroller | 750 | ![](imgLink) | Arduino Uno is a microcontroller board based on the ATmega328P (datasheet).
+1 | Arduino UNO | 1 | microcontroller | 750 | ![](https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg) | Arduino Uno is a microcontroller board based on the ATmega328P (datasheet).
 
