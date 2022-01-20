@@ -17,6 +17,38 @@ Road accidents have become a significant concern in Bangladesh, with high-speed 
 </div>
 
 
+## Feature
+
+:heavy_check_mark: Accident Detection
+:heavy_check_mark: Accident Prevention
+:heavy_check_mark: Emergency Solution
+
+## How Does It Works
+
+* Accident Prevention
+    ```
+    To Prevent accident we used four sensor
+    * Ultrasonic:  When the sensor detects an object nearly 30 cm it will stop the car.
+    * PIR: It is used to monitor the driver motion. If the driver moved out from its range the car will stop immediately.
+    * MQ3: Checking whether the driver is alcoholic or not.
+    * Bazzer: When the PIR sensor detects that the driver is in a sleep, It will make noise.
+    ```
+* Accident Detection
+    ```
+    To Detect an accident we used only one sensor
+    * Vibrator sensor: If the car crash, it will produce a signal. Based on the signal we do an emergency solution.
+    ```
+* Emergency Solution
+    ```
+    In Emergency solution we used some modules and a server
+    * GPS NEO 6M: Get car current location in Latitude and Longitude.
+    * SIM 800L: Do a post request with Latitude and Longitude and then send an SMS into the responsed phone number.
+    * Server: The server calculate the sortest path between hospitals and the accident occured location and return hospital details as response.
+    ```
+* <a href="https://github.com/imamhossain94/find-nearest-hospital-bd">Check the Server Repository</a>
+
+
+
 ## Module & Sensor Used
 
 | S/N | Name/Model | Quantity | Type | Price | Image | Description
