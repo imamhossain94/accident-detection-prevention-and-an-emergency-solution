@@ -38,3 +38,14 @@ Road accidents have become a significant concern in Bangladesh, with high-speed 
 15 | 2x Battery Case | 1 | Module | 30/= | ![](https://github.com/imamhossain94/accident-detection-prevention-and-an-emergency-solution/blob/main/images/battery_holder_2.png) | The primary function of a battery holder is to keep cells fixed in place safely and securely while conveying power from the batteries to the device in question.
 
 
+## 🧑 Author
+
+#### Md. Imam Hossain
+
+You can also follow my GitHub Profile to stay updated about my latest projects:
+
+[![GitHub Follow](https://img.shields.io/badge/Connect-imamhossain94-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/imamhossain94)
+
+If you liked the repo then kindly support it by giving it a star ⭐!
+
+Copyright (c) 2021 MD. IMAM HOSSAIN
