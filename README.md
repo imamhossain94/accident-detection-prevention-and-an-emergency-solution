@@ -75,7 +75,10 @@ Road accidents have become a significant concern in Bangladesh, with high-speed 
 20 | Jumper Wire | 3 | Cable | 180/= | ![](https://github.com/imamhossain94/accident-detection-prevention-and-an-emergency-solution/blob/main/images/jumper_wire.jpg) | RF jumper cables - Jumper cables is a smaller and more bendable corrugated cable which is used to connect antennas and other components to network cabling.
 
 
-
+## 🧑 Circuit Diagram
+<p align="center">
+  <img alt="Light" src="https://github.com/imamhossain94/accident-detection-prevention-and-an-emergency-solution/blob/main/images/circuit_diagram.jpg" width="100%">
+</p>
 
 
 
